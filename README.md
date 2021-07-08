@@ -6,14 +6,6 @@
 - I'm fully determined and hardworking to my duty.🥰
 - My Goals: I want to be expert in Programming and work in all the programming fields.😍
 
-### Connect with me: 
-
-[<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/facebook.svg" />][https://www.facebook.com/muhammad.moazzem.hossain]
-
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][https://www.instagram.com/moazzemh7]
-
-<br />
-
 ### Language And Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
